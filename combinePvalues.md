@@ -17,7 +17,7 @@
 
 
 
-a. Fisher's combined probability test
+### a. Fisher's combined probability test
 
 ![equation](http://latex.codecogs.com/gif.latex?X_F^2=-2\sum_{i=1}^{k}{ln(P_i)})
 
@@ -26,7 +26,7 @@ a. Fisher's combined probability test
 
 
 
-b. Z-transform test (Stouffer's method)
+### b. Z-transform test (Stouffer's method)
 
 
 ![equation](http://latex.codecogs.com/gif.latex?Z_s=\frac{\sum_{i=1}^{k}{Z_i}}{\sqrt{k}}) 
@@ -40,7 +40,7 @@ b. Z-transform test (Stouffer's method)
 
 
 
-c. Weighted Z-method
+### c. Weighted Z-method
 
 
 ![equation](http://latex.codecogs.com/gif.latex?Z_w=\frac{{\sum_{i=1}^{k}{w_i}{Z_i}}}{\sqrt{\sum_{i=1}^{k}{w_i^2}}}) 
