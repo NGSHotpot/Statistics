@@ -58,7 +58,7 @@
 
 ## 一点迷思   
 
-对于数据符合正太分布的检验来说，直接使用Stouffer's method原理上来说应该是没有问题，所以，为了整合例如hypergeometric和binomal的结果，是否只要相应改变其中的Z-transform的映射就可以了呢？
+对于数据符合正态分布的检验来说，直接使用Stouffer's method原理上来说应该是没有问题，所以，为了整合例如hypergeometric和binomal的结果，是否只要相应改变其中的Z-transform的映射就可以了呢？
 
 
 
